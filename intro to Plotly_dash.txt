@@ -1,0 +1,17 @@
+https://dash.gallery/Portal/
+https://github.com/Coding-with-Adam/Dash-by-Plotly/tree/master/Other/Dash_Introduction
+https://youtu.be/hSPmj7mK6ng?si=k6zHB62ND6p15TFB
+1. Sentiment Analysis
+
+2. Cities Uzbek students live, 
+3. Cities Uzbek people live, study, work
+
+Problem: 
+1. Area and population of a region, country, city
+2. Unemployment rate
+3. Web scraping for movies: https://www.geeksforgeeks.org/scrape-imdb-movie-rating-and-details-using-python/
+4. Web scraping for products from Amazon https://www.geeksforgeeks.org/scraping-amazon-product-information-using-beautiful-soup/
+Idea: 
+
+Demographics data
+

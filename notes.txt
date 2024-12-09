@@ -1,0 +1,5 @@
+Research questions:
+1. What is the sentiment of the news produced by Kunuz? Do they produce more negative, positive or
+neutral news?
+
+2. What is the sentiment of the news per category?

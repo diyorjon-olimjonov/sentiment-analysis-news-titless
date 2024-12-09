@@ -1,0 +1,9 @@
+selenium
+wordcloud
+matplotlib
+pandas
+seaborn
+scikit-learn
+spacy
+plotly
+Kaleido
